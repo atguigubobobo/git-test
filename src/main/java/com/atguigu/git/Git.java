@@ -12,5 +12,6 @@ public class Git {
         System.out.println("4");
         System.out.println("5");
         System.out.println("55");
+        System.out.println("666");
     }
 }
